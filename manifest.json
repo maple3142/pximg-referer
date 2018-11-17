@@ -1,0 +1,11 @@
+{
+	"name": "Pximg referer",
+	"version": "1.0",
+	"description": "Pixiv's pximg site referer fixer.",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": true
+	},
+	"permissions": ["webRequest", "webRequestBlocking", "*://*.pximg.net/"],
+	"manifest_version": 2
+}
