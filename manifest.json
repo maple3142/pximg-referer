@@ -1,6 +1,6 @@
 {
 	"name": "Pximg referer",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Pixiv's pximg site referer fixer.",
 	"background": {
 		"scripts": ["background.js"]
